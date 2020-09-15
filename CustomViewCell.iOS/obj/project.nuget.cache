@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bBByIiXPr5awDSIAitxh3lRfHWePX4SFIFrHvTbgqU51RtrYS4yZ5qGbDvmVu3zpw3LECcH+bnuwqwDQk4xHog==",
+  "success": true,
+  "projectFilePath": "/Users/MGS/Projects/CustomViewCell/CustomViewCell.iOS/CustomViewCell.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/MGS/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/MGS/.nuget/packages/xamarin.forms/4.8.0.1364/xamarin.forms.4.8.0.1364.nupkg.sha512"
+  ],
+  "logs": []
+}

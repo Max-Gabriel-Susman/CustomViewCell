@@ -1,0 +1,13 @@
+/Users/MGS/Projects/CustomViewCell/CustomViewCell/bin/Debug/netstandard2.0/CustomViewCell.deps.json
+/Users/MGS/Projects/CustomViewCell/CustomViewCell/bin/Debug/netstandard2.0/CustomViewCell.dll
+/Users/MGS/Projects/CustomViewCell/CustomViewCell/bin/Debug/netstandard2.0/ref/CustomViewCell.dll
+/Users/MGS/Projects/CustomViewCell/CustomViewCell/bin/Debug/netstandard2.0/CustomViewCell.pdb
+/Users/MGS/Projects/CustomViewCell/CustomViewCell/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/MGS/Projects/CustomViewCell/CustomViewCell/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/MGS/Projects/CustomViewCell/CustomViewCell/obj/Debug/netstandard2.0/CustomViewCell.AssemblyInfoInputs.cache
+/Users/MGS/Projects/CustomViewCell/CustomViewCell/obj/Debug/netstandard2.0/CustomViewCell.AssemblyInfo.cs
+/Users/MGS/Projects/CustomViewCell/CustomViewCell/obj/Debug/netstandard2.0/CustomViewCell.csproj.CoreCompileInputs.cache
+/Users/MGS/Projects/CustomViewCell/CustomViewCell/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/MGS/Projects/CustomViewCell/CustomViewCell/obj/Debug/netstandard2.0/CustomViewCell.dll
+/Users/MGS/Projects/CustomViewCell/CustomViewCell/obj/Debug/netstandard2.0/ref/CustomViewCell.dll
+/Users/MGS/Projects/CustomViewCell/CustomViewCell/obj/Debug/netstandard2.0/CustomViewCell.pdb

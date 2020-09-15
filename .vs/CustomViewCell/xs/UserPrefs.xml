@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{059A22E8-9435-48C9-89FA-88186846F3A8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CustomViewCell/MainPage.xaml.cs">
+    <Files>
+      <File FileName="CustomViewCell/MainPage.xaml" Line="12" Column="15" />
+      <File FileName="CustomViewCell/MainPage.xaml.cs" Line="17" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CustomViewCell" expanded="True">
+            <Node name="CustomViewCell" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="CustomViewCell.Android" expanded="True">
+              <Node name="Packages" expanded="True" />
+            </Node>
+            <Node name="CustomViewCell.iOS" expanded="True">
+              <Node name="Packages" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CustomViewCell.Android PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
